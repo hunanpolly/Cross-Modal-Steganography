@@ -14,5 +14,18 @@
 * loguru == 0.6.0
 * six == 1.16.0
 
-#### The example of training stage of CM-TStega (train_2.sh)
+#### The example code of training stage of CM-TStega (train_2.sh)
 #### The example code of inference stage of CM-TStega (test-best.sh)
+
+# Cite
+#### If this paper and code are helpful, please cite the following paper:
+
+@ARTICLE{10075392,
+  author={Peng, Wanli and Wang, Tao and Qian, Zhenxing and Li, Sheng and Zhang, Xinpeng},
+  journal={IEEE Signal Processing Letters}, 
+  title={Cross-Modal Text Steganography Against Synonym Substitution-Based Text Attack}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/LSP.2023.3258862}}
