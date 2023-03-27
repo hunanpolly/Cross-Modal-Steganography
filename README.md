@@ -1,3 +1,3 @@
 # Summary
 
-#### Cross-Modal Text Steganography Against Synonym Substitution-Based Text attack (publication on [2023 IEEE SPL]())
+#### CM-TSTega: "Cross-Modal Text Steganography Against Synonym Substitution-Based Text attack" [paper Link](10.1109/LSP.2023.3258862)
