@@ -14,5 +14,5 @@
 * loguru == 0.6.0
 * six == 1.16.0
 
-#### The example of training stage of CM-TStega (train.sh)
-#### The example code of inference stage of CM-TStega (evaluate-best.sh)
+#### The example of training stage of CM-TStega (train_2.sh)
+#### The example code of inference stage of CM-TStega (test-best.sh)
